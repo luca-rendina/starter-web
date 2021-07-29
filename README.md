@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 #### Forth level
+
+Copyright
