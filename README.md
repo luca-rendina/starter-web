@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Do a fork and then issue a pull request
+
 #### Forth level
 
 Copyright
