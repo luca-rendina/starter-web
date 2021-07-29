@@ -14,7 +14,11 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+<<<<<<< HEAD
 Do a fork and then issue a pull request
+=======
+Please fork this repository and then issue Pull request for review
+>>>>>>> simple-changes
 
 #### Forth level
 
